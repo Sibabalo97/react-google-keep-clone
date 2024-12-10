@@ -1,0 +1,23 @@
+/* Styling for Search Bar */
+input[type="text"] {
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  input[type="text"]:focus {
+    border-color: #4caf50;
+    outline: none;
+  }
+  
+  /* Logo Styling */
+  .header-logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-right: 20px;
+  }
+  
